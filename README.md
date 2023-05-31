@@ -25,7 +25,7 @@ In this project we use HTML for adding a header and CSS for styling it.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/](https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a></li>
   </ul>
 </details>
 
