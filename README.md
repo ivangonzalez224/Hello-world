@@ -70,7 +70,7 @@ In this project we use HTML for adding a header and CSS for styling it.
 
 In this project it can be seen all the files needed in order to add and set up a linter and to make sure that git ignore not relevant files.
 
-To get a local copy up and running, follow these steps.
+To get a local copy, follow these steps.
 
  
 ### Setup
@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+ 
 
 ## 👥 Authors <a name="authors"></a>
  
