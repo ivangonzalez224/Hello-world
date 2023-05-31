@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 
 👤 **Iván Gonzalez**
 
-- GitHub: [@ivangonzalez224]([https://github.com/githubhandle](https://github.com/ivangonzalez224))
+- GitHub: [@ivangonzalez224](https://github.com/ivangonzalez224)
 - Twitter: [@ivang2204](https://twitter.com/ivang2204)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/iván-gonzalez-robles-957491275)
  
