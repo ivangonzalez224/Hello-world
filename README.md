@@ -38,9 +38,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello world Microverse] <a name="about-project"></a>
+# 📖 Hello world Microverse <a name="about-project"></a>
 
-**[Hello world Microverse]** is an example to demonstrate the ability to use linters, github flow and make a professional reposotory.
+**Hello world Microverse** is an example to demonstrate the ability to use linters, github flow and make a professional reposotory.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,7 +50,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/](https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a></li>
   </ul>
 </details>
 
@@ -58,9 +58,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Adding a professional README.md file]**
-- **[Adding a header with the project name and add it styles]**
-- **[Set up a linter for the project]**
+- **Adding a professional README.md file**
+- **Adding a header with the project name and add it styles**
+- **Set up a linter for the project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,6 +74,7 @@ To get a local copy, follow these steps.
 ### Setup
 
 Clone this repository to your desired folder:
+
   cd my-folder
   
   git clone https://github.com/ivangonzalez224/Hello-world.git
