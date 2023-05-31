@@ -69,9 +69,10 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > In this project it can be seen all the files needed in order to add and set up a linter and to make sure that git ignore not relevant files.
-To get a local copy, follow these steps.
 
 ### Setup
+
+To get a local copy, follow these steps.
 
 Clone this repository to your desired folder:
 
