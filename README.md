@@ -21,7 +21,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> In this project we use HTML for adding a header and CSS for styling it.
+In this project we use HTML for adding a header and CSS for styling it.
 <details>
   <summary>Client</summary>
   <ul>
@@ -39,7 +39,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> In this project it can be seen all the files needed in order to add and set up a linter and to make sure that git ignore not relevant files.
+In this project it can be seen all the files needed in order to add and set up a linter and to make sure that git ignore not relevant files.
 
 ### Setup
 
