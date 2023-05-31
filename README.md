@@ -2,52 +2,33 @@
 
 <!--
 HOW TO USE:
-This is an example to demonstrate the ability to submit a project for code review..
-
-Modify this file to match your project and remove sections that don't apply.
+This is an example to demonstrate the ability to submit a project for code review. 
 
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
-  - Built With
-  - Live Demo
+  - Built With 
 - Getting Started
-- Authors
-- Future Features
+- Authors 
 - Contributing
 - Show your support
-- Acknowledgements
-- License
-
+- Acknowledgements 
 OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
---> 
-<!-- TABLE OF CONTENTS -->
+- FAQ 
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+    - [Key Features](#key-features) 
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
+  - [Setup](#setup) 
+- [👥 Authors](#authors) 
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-
+ 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello world Microverse <a name="about-project"></a>
@@ -71,7 +52,7 @@ In this project we use HTML for adding a header and CSS for styling it.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+ 
 
 - Adding a professional README.md file
 - Adding a header with the project name
@@ -97,7 +78,9 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
  
   cd my-folder
+  
   git clone https://github.com/ivangonzalez224/Hello-world.git
+  
   cd Hello-world 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,10 +118,8 @@ If you like this project give it a star.
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
+## 🙏 Acknowledgments <a name="acknowledgements"></a> 
+ 
 I would like to thank Micoverse for providing the material to develop this project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
