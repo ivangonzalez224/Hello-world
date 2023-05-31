@@ -2,7 +2,7 @@
 
 <!--
 HOW TO USE:
-This is an example to demonstrate the ability to submit a project for code review. 
+This is an example to demonstrate the ability to use linters, github flow and make a professional repository. 
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -29,11 +29,11 @@ OPTIONAL SECTIONS:
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
  
-<!-- PROJECT DESCRIPTION -->
+ 
 
 # 📖 Hello world Microverse <a name="about-project"></a>
 
-Hello world Microverse is an example to demonstrate the ability to submit a project for code review.
+Hello world Microverse This is an example to demonstrate the ability to use linters, github flow and make a professional reposotory.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,15 +44,13 @@ In this project we use HTML for adding a header and CSS for styling it.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="[https://reactjs.org/](https://developer.mozilla.org/es/docs/Web/JavaScript)">Javascript</a></li>
+    <li><a href="https://reactjs.org/](https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a></li>
   </ul>
 </details> 
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
-
- 
+### Key Features <a name="key-features"></a> 
 
 - Adding a professional README.md file
 - Adding a header with the project name
@@ -61,10 +59,7 @@ In this project we use HTML for adding a header and CSS for styling it.
 - Add a gitignore file to make tha git ignore not relevant files
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
  
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -92,9 +87,9 @@ Clone this repository to your desired folder:
 
 👤 **Iván Gonzalez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ivangonzalez224]([https://github.com/githubhandle](https://github.com/ivangonzalez224))
+- Twitter: [@ivang2204](https://twitter.com/ivang2204)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/iván-gonzalez-robles-957491275)
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
