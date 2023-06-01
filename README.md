@@ -81,7 +81,7 @@ This project does not require installation. Just clone the repository to your lo
 ### Usage
 
 To run the project, do the following:
-- After cloning the repository to your local computer, open the folder in VSCode.
+- After cloning the repository to your local computer, open the folder in a code editor.
 - Find the path of the index.html file and open it in your preferred browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
