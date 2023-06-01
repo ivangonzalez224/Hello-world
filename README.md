@@ -47,6 +47,14 @@ In this project we use HTML for adding a header and CSS for styling it.
 
 In this project you can learn how to add a header and adding it color style. Besides, it can be seen all the files needed in order to add and set up a linter and to make sure that git ignore not relevant files.
 
+### Prerequisites
+
+In order to run this project you need:
+
+1. Git.
+2. Visual Studio Code or another code editor.
+3. Browser.
+
 ### Setup
 
 To get a local copy, follow these steps.
@@ -59,15 +67,10 @@ Clone this repository to your desired folder:
   
   cd Hello-world
   
-  code . (To open in Vscode)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Install
 
-This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser.
+This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Usage
 
