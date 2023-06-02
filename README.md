@@ -28,6 +28,10 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
+1. HTML
+2. CSS
+3. Linters
+
 ### Tech Stack <a name="tech-stack"></a>
 
 In this project we use HTML for adding a header and CSS for styling it.
@@ -41,9 +45,9 @@ In this project we use HTML for adding a header and CSS for styling it.
 
 ### Key Features <a name="key-features"></a>
 
-- **Adding a professional README.md file**
-- **Adding a header with the project name and adding color style**
-- **Set up a linter for the project**
+1. Add a professional README.md file.
+2. Add a header with the project name and adding color style.
+3. Set up a linter for the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,13 +61,12 @@ To get a local copy, follow these steps.
 
 Clone this repository to your desired folder:
 
+```sh
   cd my-folder
-  
-  git clone https://github.com/ivangonzalez224/Hello-world.git
-  
-  cd Hello-world
-  
-  
+  git clone git@github.com:myaccount/my-project.git
+  code . (To open in Vscode)
+```
+ 
 ### Prerequisites
 
 In order to run this project you need:
@@ -76,13 +79,17 @@ In order to run this project you need:
 ### Install
 
 This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser.
-
+Even though, for general purposes, Install this project with:
+```sh
+  cd my-folder
+  npm install
+```
 
 ### Usage
 
 To run the project, do the following:
 - After cloning the repository to your local computer, open the folder in a code editor.
-- Find the path of the index.html file and open it in your preferred browser.
+- Find the path of the index.html file, copy it, and open it in a Web Browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +119,7 @@ If you like this project give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Micoverse for providing the material to develop this project.
+I would like to thank Micoverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
