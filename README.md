@@ -63,7 +63,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/ivangonzalez224/Hello-world.git
   code . (To open in Vscode)
 ```
  
@@ -78,7 +78,7 @@ In order to run this project you need:
   
 ### Install
 
-This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser.
+Disclaimer: This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser.
 Even though, for general purposes, Install this project with:
 ```sh
   cd my-folder
