@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h3><b>Hello World Microverse</b></h3>
+  <h3><b>Hello Microverse</b></h3>
   <h5>Ivan Gonzalez</h5> 
 </div>
 
@@ -22,9 +22,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello world Microverse <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**Hello world Microverse** is an example to create and style a header, to learn how to use github flow, and to add a descriptive README file.
+**Hello Microverse** is an example to create and style a header, to learn how to use github flow, and to add a descriptive README file.
 
 ## 🛠 Built With <a name="built-with"></a>
 
